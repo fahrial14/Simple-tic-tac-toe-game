@@ -1,2 +1,2 @@
 # simple-tic-tac-toe-game
-Just simple tic tac toe using pygame
+Just simple tic tac toe using pygame module :))
